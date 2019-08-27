@@ -1,0 +1,10 @@
+body {
+    background-color: lightpink
+}
+.smallText {
+    font-size: .2em
+}
+
+.largeText {
+    font-size: 2em
+}
